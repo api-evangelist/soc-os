@@ -29,7 +29,7 @@ x-tier-reason: portfolio-lead
 x-status: acquired
 x-acquired-by: sophos
 x-acquired-evidence: 'socos.io 301 -> www.sophos.com/en-us/products/managed-detection-and-response (probed 2026-07-21)'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-21'
 tags:
